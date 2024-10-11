@@ -73,7 +73,7 @@ function loadQuiz() {
 
 function checkAnswer(selected, correct) {
     if (selected === correct) {
-        answersEl[selected].style.backgroundColor = 'green';
+        answersEl[selected].style.backgroundColor = '#bbe1bb';
         score++;
     } else {
         answersEl[selected].style.backgroundColor = '#dfbaba';
