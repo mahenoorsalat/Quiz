@@ -1,53 +1,53 @@
 // Quiz questions and answers
 const quizData = [
     {
-        question: "Who wrote the play 'Romeo and Juliet'?",
-        answers: ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+        question: "Who directed the movie 'Inception'?",
+        answers: ["Christopher Nolan", "Steven Spielberg", "James Cameron", "Martin Scorsese"],
         correct: 0
     },
     {
-        question: "Which is the longest river in the world?",
-        answers: ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        question: "What is the main professional networking site used for career building?",
+        answers: ["LinkedIn", "Facebook", "Twitter", "Instagram"],
+        correct: 0
+    },
+    {
+        question: "Which movie features the character 'Jack Dawson'?",
+        answers: ["Titanic", "The Great Gatsby", "Avatar", "Inception"],
+        correct: 0
+    },
+    {
+        question: "Which feature on LinkedIn allows you to display your work achievements?",
+        answers: ["Featured", "News Feed", "Stories", "Moments"],
         correct: 1
     },
     {
-        question: "What is the smallest country in the world?",
-        answers: ["Vatican City", "Monaco", "Malta", "Liechtenstein"],
+        question: "In which movie does 'The Joker' appear as a primary villain?",
+        answers: ["The Dark Knight", "Iron Man", "Spider-Man", "Avengers: Endgame"],
         correct: 0
     },
     {
-        question: "Who was the first person to walk on the moon?",
-        answers: ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+        question: "Which section on LinkedIn is used to describe your skills and expertise?",
+        answers: ["About", "Experience", "Skills & Endorsements", "Recommendations"],
+        correct: 2
+    },
+    {
+        question: "Which famous movie features the quote 'May the Force be with you'?",
+        answers: ["Star Wars", "Star Trek", "Guardians of the Galaxy", "The Matrix"],
         correct: 0
     },
     {
-        question: "Which element is the chemical symbol 'O'?",
-        answers: ["Oxygen", "Osmium", "Oganesson", "Oxonium"],
-        correct: 0
-    },
-    {
-        question: "In which year did World War II end?",
-        answers: ["1945", "1940", "1939", "1941"],
-        correct: 0
-    },
-    {
-        question: "Which is the largest desert in the world?",
-        answers: ["Sahara", "Antarctica", "Gobi", "Arctic"],
+        question: "What can you use on LinkedIn to connect with people in your industry?",
+        answers: ["Connections", "Likes", "Followers", "Shares"],
         correct: 1
     },
     {
-        question: "Who painted the Mona Lisa?",
-        answers: ["Leonardo da Vinci", "Vincent van Gogh", "Michelangelo", "Claude Monet"],
+        question: "In which movie is the character 'Thanos' trying to collect Infinity Stones?",
+        answers: ["Avengers: Infinity War", "Justice League", "X-Men", "The Hobbit"],
         correct: 0
     },
     {
-        question: "What is the hardest natural substance on Earth?",
-        answers: ["Diamond", "Gold", "Iron", "Platinum"],
-        correct: 0
-    },
-    {
-        question: "Which planet is known as the Red Planet?",
-        answers: ["Mars", "Venus", "Jupiter", "Saturn"],
+        question: "Which LinkedIn feature helps job seekers apply directly to openings?",
+        answers: ["Jobs", "Home Feed", "Connections", "InMail"],
         correct: 0
     }
     
